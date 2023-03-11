@@ -9,3 +9,6 @@ In this problem case all answers we need is in the tables of Pdf.<br>based on th
 3. Rank the answers based on its scores
 4. Preview the answers
 
+<img src="pipeline.png" width="500px" hight="500px"/> 
+
+
