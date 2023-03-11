@@ -11,5 +11,11 @@ In this problem case all answers we need is in the tables of Pdf.<br>based on th
 
 <img src="pipeline.png"/> 
 
+## Results 
+<img src="1.PNG"/> 
+<img src="2.PNG"/> 
+<img src="3.PNG"/> 
+<img src="4.PNG"/> 
+
 
 
